@@ -1,3 +1,3 @@
-# data-science
+# Data Science Complete Task Archive
 
-Here is the arhive of completed Data Science tasks
+Curated solutions to assorted data science exercises, covering exploratory analysis, feature engineering, modeling, and evaluation in Python.
